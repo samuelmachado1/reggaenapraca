@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# 🌴 Portfólio do Festival Reggae na Praça - Samuel Estrella 🎵
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao portfólio do Festival Reggae na Praça! Este site foi desenvolvido por Samuel Estrella (@techrasta) para apresentar o histórico de um evento que caminha para seus 10 anos de pura vibe reggae. 🎉🎸
 
-## Available Scripts
+## Sobre o Festival 🎶
 
-In the project directory, you can run:
+O Festival Reggae na Praça é um evento que acontece há 09 anos na Praça do Reggae, localizada em São Sebastião/DF. Ele se tornou uma tradição na cidade, reunindo amantes do reggae em um encontro memorável repleto de música, cultura e energia positiva. 🌟💚
 
-### `npm start`
+## O que você encontrará neste site? 📸📰📽️
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Neste site, você encontrará uma incrível viagem pela história do Festival Reggae na Praça. São flyers, fotos, vídeos, reportagens e outros materiais que contam a trajetória do festival, destacando sua importância para a cena reggae e para a nossa comunidade. Você poderá reviver os momentos marcantes e sentir toda a vibe do evento!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Visão Geral do Projeto 🚀
 
-### `npm test`
+Este projeto utiliza React e JavaScript para criar uma landing simples que exibe o portfólio do Festival Reggae na Praça. Ele foi cuidadosamente desenvolvido para proporcionar uma experiência visual leve aos visitantes. Conta com seções organizadas, como um carrossel de imagens que capturam a essência de cada edição e um setor dedicado a vídeos que vão te transportar para os momentos mágicos do festival. ✨🎥
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Pré-requisitos ⚙️
 
-### `npm run build`
+Antes de iniciar, certifique-se de ter o Node.js instalado em seu computador para executar este projeto.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Como executar o projeto ▶️
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Faça o clone deste repositório.
+2. Navegue até o diretório do projeto.
+3. Execute o comando `npm install` para instalar as dependências.
+4. Execute o comando `npm start` para iniciar o servidor de desenvolvimento.
+5. Abra seu navegador e acesse `http://localhost:3000` para conferir o site e mergulhar na atmosfera reggae!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tecnologias Utilizadas 🛠️
 
-### `npm run eject`
+- React
+- JavaScript
+- react-responsive-carousel
+- react-player
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Autor 👨🏿‍💻
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Samuel Estrella - @techrasta
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Licença 📄
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se à vontade para explorar, compartilhar e espalhar a positividade do reggae!
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🌴🎵🎉 Vamos celebrar a cultura e a música juntos! Jah bless! 🌟💚🎸

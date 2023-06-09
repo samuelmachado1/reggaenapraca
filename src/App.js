@@ -38,14 +38,14 @@ function App() {
         "./images/2016_2/reggaenapraca8_04.jpg",
       ],
       videos: [
-        {
-          url: "https://www.youtube.com/watch?v=ZoK7KoYLbC0",
-          title: "Calango Rasta",
-        },
-        {
-          url: "https://www.youtube.com/watch?v=uvPAJJVE-Vo",
-          title: "Jah Connection",
-        },
+        // {
+        //   url: "https://www.youtube.com/watch?v=ZoK7KoYLbC0",
+        //   title: "Calango Rasta",
+        // },
+        // {
+        //   url: "https://www.youtube.com/watch?v=uvPAJJVE-Vo",
+        //   title: "Jah Connection",
+        // },
       ],
     },
     {
@@ -91,14 +91,14 @@ function App() {
         "./images/2016/rnpEspAberto_040.jpg",
       ],
       videos: [
-        {
-          url: "https://www.youtube.com/watch?v=ZoK7KoYLbC0",
-          title: "Calango Rasta",
-        },
-        {
-          url: "https://www.youtube.com/watch?v=uvPAJJVE-Vo",
-          title: "Jah Connection",
-        },
+        // {
+        //   url: "https://www.youtube.com/watch?v=ZoK7KoYLbC0",
+        //   title: "Calango Rasta",
+        // },
+        // {
+        //   url: "https://www.youtube.com/watch?v=uvPAJJVE-Vo",
+        //   title: "Jah Connection",
+        // },
       ],
     },
     {
@@ -121,14 +121,14 @@ function App() {
         "./images/2015_4/rnp6_013.jpg",
       ],
       videos: [
-        {
-          url: "https://www.youtube.com/watch?v=ZoK7KoYLbC0",
-          title: "Calango Rasta",
-        },
-        {
-          url: "https://www.youtube.com/watch?v=uvPAJJVE-Vo",
-          title: "Jah Connection",
-        },
+        // {
+        //   url: "https://www.youtube.com/watch?v=ZoK7KoYLbC0",
+        //   title: "Calango Rasta",
+        // },
+        // {
+        //   url: "https://www.youtube.com/watch?v=uvPAJJVE-Vo",
+        //   title: "Jah Connection",
+        // },
       ],
     },
   ];
