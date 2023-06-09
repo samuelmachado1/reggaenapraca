@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #cea661;
+  padding: 20px;
+}
+
+.portfolio-item {
+  margin-bottom: 50px;
+}
+
+.portfolio-item h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.portfolio-item p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.carousel {
+  margin-bottom: 30px;
+}
+
+.carousel .carousel .slider-wrapper {
+  overflow: visible;
+}
+
+.carousel .slide img {
+  display: block;
+  max-width: 480px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.videos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.video-item {
+  width: 320px;
+  margin: 10px;
+}
+
+.video-item p {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
