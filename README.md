@@ -1,4 +1,4 @@
-# 🌴 Portfólio do Festival Reggae na Praça - Samuel Estrella 🎵
+# 🌴 Portfólio do Festival Reggae na Praça 🎵
 
 Bem-vindo ao portfólio do Festival Reggae na Praça! Este site foi desenvolvido por Samuel Estrella (@techrasta) para apresentar o histórico de um evento que caminha para seus 10 anos de pura vibe reggae. 🎉🎸
 
